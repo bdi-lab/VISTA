@@ -27,9 +27,9 @@ pip install -r requirements.txt
 
 ## Datasets
 
-Due to the large size of the visual features, we provide the link to download the datasets. Note that we cannot provide the raw images due to some potential license problems. To use the datasets, place the unzipped data folder in the same directory with the codes.
-
 You can download the datasets from https://drive.google.com/file/d/1u4QthmEboMzRarF_HLYfLDOLcOZeH8Gp/view?usp=drive_link
+
+To use the datasets, place the unzipped data folder in the same directory with the codes. Note that we cannot provide the raw images due to some potential license problems.
 
 ## Reproducing the Reported Results
 
@@ -71,8 +71,8 @@ The list of arguments of 'train.py':
 - `--data`: name of the dataset
 - `--lr`: learning rate
 - `--dim`: $d$
-- `--num_epoch`: total number of training epochs (only used for train.py)
-- `--test_epoch`: the epoch to test (only used for test.py)
+- `--num_epoch`: total number of training epochs (only used for `train.py`)
+- `--test_epoch`: the epoch to test (only used for `test.py`)
 - `--valid_epoch`: the duration of validation
 - `--exp`: experiment name
 - `--num_layer_enc_ent`: $L$
