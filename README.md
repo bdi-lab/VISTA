@@ -1,12 +1,12 @@
 # VISTA: Visual-Textual Knowledge Graph Representation Learning
-This code is the official implementation of the following [paper]():
+This code is the official implementation of the following [paper](https://aclanthology.org/2023.findings-emnlp.488/):
 
-> Jaejun Lee, Chanyoung Chung, and Joyce Jiyoung Whang, VISTA: Visual-Textual Knowledge Graph Representation Learning, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP 2023).
+> Jaejun Lee, Chanyoung Chung, Hochang Lee, Sungho Jo, and Joyce Jiyoung Whang, VISTA: Visual-Textual Knowledge Graph Representation Learning, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP 2023).
 
 All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this code or data, please cite our paper.
 ```bibtex
 @inproceedings{vista,
-	author={Jaejun Lee and Chanyoung Chung and Joyce Jiyoung Whang},
+	author={Jaejun Lee and Chanyoung Chung and Hochang Lee and Sungho Jo and Joyce Jiyoung Whang},
 	title={VISTA: Visual-Textual Knowledge Graph Representation Learning},
 	booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
 	year={2023},
