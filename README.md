@@ -10,7 +10,8 @@ All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this cod
 	title={VISTA: Visual-Textual Knowledge Graph Representation Learning},
 	booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
 	year={2023},
-	pages={7314--7328}
+	pages={7314--7328},
+	doi={10.18653/v1/2023.findings-emnlp.488}
 }
 ```
 
