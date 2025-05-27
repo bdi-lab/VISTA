@@ -89,3 +89,6 @@ The list of arguments of 'train.py':
 - `--decay`: the weight decay
 - `--max_img_num`: $k=\hat{k}$
 - `--step_size`: the step size of the cosine annealing learning rate scheduler
+
+## License
+Our datasets and codes are released under the CC BY-NC-SA 4.0 license.
